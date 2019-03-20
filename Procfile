@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mathbeep_1525.wsgi:application
